@@ -5,7 +5,7 @@ john#3213 had ratted and done other uncool things(trying to make me look like a 
 proof of his ratting/spending money on peoples discord accounts:
 https://streamable.com/cv41tq
 
-4a6f686e#3213(784968545926774787)
-Que#3333(863829599518326844)
-ACUS#5302(738187136045547590) impersonating ACUS
-OldT#4410(802224727942365295)
+# 4a6f686e#3213(784968545926774787)
+# Que#3333(863829599518326844)
+# ACUS#5302(738187136045547590) impersonating ACUS
+# OldT#4410(802224727942365295)
