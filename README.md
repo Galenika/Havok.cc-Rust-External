@@ -1,4 +1,7 @@
 # Havok.cc-Rust-External
+
+Might be detected havent used it ina while(figure it out urself ¯\_(ツ)_/¯)
+
 a former partner of mine had leaked a interior version of my rust external, so heres the newest version from a month ago.
 john#1337 had ratted and done other uncool things(trying to make me look like a ratter/scammer) to people I know, so ive deceided to release this source and his Discord ALTs and IDs so people can avoid contact with him.
 
